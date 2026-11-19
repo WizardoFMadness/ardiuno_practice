@@ -5,6 +5,9 @@ This is how to LCD-message-display for beginners
 Well, follow this wiring  format
 
 LCD Pin	Function	Arduino
+
+(Open the README.md folder to see table properly)
+
 1	VSS	GND
 2	VDD	5V
 3	VO	Potentiometer middle pin
